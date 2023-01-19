@@ -128,6 +128,7 @@ else:
 
 
 print("Welcome! Please wait while we load TuraOS.")
+print("If your program crashes, try moving the main TuraOS folder in the desktop")
 def spinning_cursor():
     while True:
         for cursor in '|/-\\':
