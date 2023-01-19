@@ -61,6 +61,11 @@ time
 tura --version
 
 
+
+
+
+
+
 **The CEO of TuraOS**
 
 The CEO of TuraOS is actually Wernox.
