@@ -25,22 +25,39 @@ TuraOS is a free open terminal for hackers. It isn't illegall but i do not recom
 **List of the commands**
 
 gangnk
+
 clear
+
 echo
+
 exit
+
 iplookup
+
 ls
+
 neofetch
+
 nune
+
 nune -i
+
 nune -k
+
 paint
+
 pip
+
 scorpion
+
 sea
+
 selfbot
+
 sqlmap
+
 time
+
 tura --version
 
 
