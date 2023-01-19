@@ -97,7 +97,7 @@ def signup():
         print("Password is not same as above! \n")
 def login():
     user = input("User > ")
-    pwd = input("Password > ")
+    pwd = maskpass.askpass(prompt="Password >", mask="*")
     auth = pwd.encode()
     auth_hash = hashlib.md5(auth).hexdigest()
     with open("User_Data.txt", "r") as f:
