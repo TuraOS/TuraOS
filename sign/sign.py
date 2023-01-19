@@ -1,3 +1,5 @@
+from getpass import getpass
+password = getpass()
 import colorama
 from colorama import Style, Back, Fore
 import os
@@ -79,8 +81,8 @@ os.system('cls')
 
 def signup():
     email = input("User > ")
-    pwd = input("Password > ")
-    conf_pwd = input("Confirm Password > ")
+    pwd = getpass.getpass("Password > ")
+    conf_pwd = getpass.getpass("Confirm Password > ")
     if conf_pwd == pwd:
         enc = conf_pwd.encode()
         hash1 = hashlib.md5(enc).hexdigest()
