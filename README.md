@@ -20,7 +20,7 @@
 **What is actually TuraOS?**
 
 
-TuraOS is a free open terminal for hackers. It isn't illegall but i do not recommend you using SQLMAP. TuraOS is free for everyone and a paid version might come out ASAP. There are two versions: TuraOS 1.0.0 and the latest is TuraOS 1.5.0
+TuraOS is a free open terminal for hackers. It isn't illegal but i do not recommend you using SQLMAP. TuraOS is free for everyone and a paid version might come out ASAP. There are two versions: TuraOS 1.0.0 and the latest is TuraOS 1.5.0
 
 **List of the commands**
 
